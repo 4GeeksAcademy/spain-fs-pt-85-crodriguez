@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.container-fluid text-center {
+  display: flex;
+  align-content: center;
+  vertical-align: center;
+}
+p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 24px;
+  color: green;
+}
